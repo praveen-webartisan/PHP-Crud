@@ -2,7 +2,7 @@
 (MySQL CRUD using Single PHP file with Login and Sign up facilities)
 
 ## Requirements ##
-> PHP >= 7.0 
+> PHP >= 7.0  
 > MySQL >= 14.4  
 
 ## Application Setup
@@ -12,6 +12,6 @@ Change your app directory location after try run the following instructions
 
 ### Create config Database file
 Create a database with any name then copy the MySQL Create Table statement from the PHP file and change the following constants defined in the PHP file: 
-`DB`
-`DB_USER`
-`DB_PWD`
+`DB`  
+`DB_USER`  
+`DB_PWD`  
